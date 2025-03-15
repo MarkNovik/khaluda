@@ -1,0 +1,7 @@
+[package]
+name = "khaluda_examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+khaluda = {path = "../khaluda_proc_macro"}

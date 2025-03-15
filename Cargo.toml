@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "khaluda_proc_macro",
+    "examples"
+]
+resolver = "2"
